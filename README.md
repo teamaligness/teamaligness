@@ -21,7 +21,7 @@
 
 - :seedling: Interested in Artificial Intelligence, Embedded System, Computer Vision, etc
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com)
+- :mailbox: How to reach us: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com)
 
 <!--
 **teamaligness/teamaligness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
